@@ -1,10 +1,12 @@
 # multi-languages subtitle render
 > This project is a multi-languages subtitle render. First targe is a chrome extension which works with netflix.
+## Dependency
+> nodejs v8.12.0
 
 ## Building
 
 1.  Clone repo
-2.  `npm i`
+2.  `npm install`
 3.  `npm run dev` to compile once or `npm run watch` to run the dev task in watch mode
 4.  `npm run build` to build a production (minified) version
 
