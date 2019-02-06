@@ -1,5 +1,5 @@
 # multi-languages subtitle render
-> This project is a multi-languages subtitle render. First targe is a chrome extension which works with netflix.
+> This project is a multi-languages subtitle render. First target is a chrome extension which works with netflix.
 ## Dependency
 > nodejs v8.12.0
 
