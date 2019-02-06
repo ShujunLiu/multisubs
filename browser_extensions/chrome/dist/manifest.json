@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+
+    "name": "Chrome Extension (built with TypeScript + React)",
+    "description":
+        "A boilerplate project to quickly build a Chrome extension using TypeScript and React (built using webpack).",
+    "version": "1.0.0",
+
+    "browser_action": {
+        "default_icon": "images/icon16.png",
+        "default_popup": "popup.html"
+    },
+
+    "background": {
+        "scripts": ["js/eventPage.js"],
+        "persistent": false
+    },
+
+    "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "imagesicon128.png"
+    },
+
+    "permissions": []
+}
